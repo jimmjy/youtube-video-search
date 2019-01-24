@@ -5,3 +5,8 @@ body {
 .ui.container {
     margin-top: 10px;
 }
+
+.ui.center.aligned.segment {
+    font-size: 20px;
+    font-weight: bold;
+}
