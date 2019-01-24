@@ -1,0 +1,4 @@
+.controlled-height {
+    max-height: 500px !important;
+    overflow-y: scroll;
+}
